@@ -60,6 +60,22 @@ Aby korzystać z PPP w swoich programach C++, należy umieścić plik nagłówko
 - `pracuj` - odpowiada `do`
 - `pracujDla` - odpowiada `for`
 
+### Matematyka
+- `PI` - wartość stałej `π`
+- `kwadrat(x);` - funkcja obliczająca kwadrat liczby `x`
+
+### Zarządzanie Pamięcią
+- `alokuj(typ, num);` - alokacja pamięci dla num elementów typu typ
+- `dealokuj(ptr);` - zwolnienie pamięci dla wskaźnika ptr
+
+### Dodatkowe Funkcje
+- `zamien(x, y);` - zamiana wartości zmiennych x i y
+- `maksimum(x, y);` - zwraca większą z liczb x i y
+
+### Obsługa Plików
+- `otworz(plik, tryb);` - otwarcie pliku plik w trybie tryb
+- `zamkni(plik);` - zamknięcie pliku plik
+
 ## Uwagi
 - Używanie PPP w dużej ilości może zmniejszyć czytelność i łatwość utrzymania kodu.
 - PPP jest głównie przeznaczony do celów edukacyjnych lub jako alternatywny sposób pisania kodu.
