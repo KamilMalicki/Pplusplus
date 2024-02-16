@@ -1,9 +1,5 @@
 # P++
 
-Oczywiście! Oto opis w języku polskim dla Twojego kodu:
-
----
-
 # Polski Pakiet Programistyczny (PPP)
 
 Polski Pakiet Programistyczny (PPP) to zestaw definicji makr w języku C++, które mapują konstrukcje języka polskiego na ich odpowiedniki w języku angielskim. Celem jest dostarczenie alternatywnego sposobu pisania kodu C++ przy użyciu polskich słów kluczowych, co może ułatwić pracę polskim programistom lub być użyteczne w celach edukacyjnych.
